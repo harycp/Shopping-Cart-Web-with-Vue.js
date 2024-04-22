@@ -1,3 +1,6 @@
+
+#This is my learning project while implementing the Vue JS course at Codepolitan
+
 # vue-cli
 
 ## Project setup
