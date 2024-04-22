@@ -1,12 +1,11 @@
 
 # This is my learning project while implementing the Vue JS course at Codepolitan
-```
-Using Bootstrap,
-Animate.css,
-FontAwesome,
-Fetch API,
-Vue Router.
-```
+
+#### Using Bootstrap,
+#### Animate.css,
+#### FontAwesome,
+#### Fetch API,
+#### Vue Router.
 
 # vue-cli
 
