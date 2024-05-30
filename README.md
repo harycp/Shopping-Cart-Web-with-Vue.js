@@ -1,5 +1,5 @@
 
-# This is my learning project while implementing the Vue JS course at Codepolitan
+# This is my learning project while implementing the Vue JS
 
 #### Using Bootstrap,
 #### Animate.css,
